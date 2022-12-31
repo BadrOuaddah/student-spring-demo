@@ -57,19 +57,6 @@ public class StudentService {
             throw new ApiRequestException();
         }
     }
-    //README
-        //Tools
-        //Spring
-        //Java
-        //IntelliJ idea
-        //How to install
-        //Example each method + body
-
-    //UML Diagram
-    //Delete
-    //Put
-    //Get
-    //Post
 
 
 }
